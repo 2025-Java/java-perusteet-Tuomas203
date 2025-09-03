@@ -11,7 +11,7 @@ Metodi `public static String describe(int n)` palauttaa jonkin seuraavista:
 - `negatiivinen parillinen`
 - `negatiivinen pariton`
 - `nolla`
-
+x
 ### 2. Kolmen luvun järjestäminen (`SortThree`)
 Metodi `public static String ascending(int a, int b, int c)` palauttaa luvut nousevassa järjestyksessä muodossa `a,b,c` (ei välilyöntejä).
 
